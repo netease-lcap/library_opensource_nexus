@@ -1,0 +1,4 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+com.netease.lowcode.mongodb.util.MongodbEnvironmentMapperPostProcessor
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.netease.lowcode.mongodb.spring.MonogodbSpringEnvironmentConfiguration

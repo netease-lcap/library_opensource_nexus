@@ -12,6 +12,7 @@
         <module>basic</module>
         <module>lacp-auth</module>
         <module>dubbo-tool</module>
+        <module>mongodb-template-tool</module>
     </modules>
 
     <properties>

@@ -1,0 +1,19 @@
+extensions:
+  mongodb_template_tool:
+    custom:
+      mongoDBUri:
+        mongodb://root1:12345678@127.0.0.1:27017/test11
+#  mongodb://127.0.0.1:27017/test?retryWrites=true&loadBalanced=false&serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&3t.uriVersion=3&3t.connection.name=localhost&3t.alwaysShowAuthDB=true&3t.alwaysShowDBFromUserRole=true
+#      mongoDBHost: 127.0.0.1
+#      mongoDBPort: 27017
+#      mongoDBDataBase: test11
+#      mongoDBUserName: root1
+#      mongoDBPassWord: 12345678
+#    primary.uri:
+#        mongodb://localhost:27017
+#    primary.database:
+#        primary
+#    secondary.uri:
+#        mongodb://localhost:27017
+#    secondary.database:
+#        secondary
